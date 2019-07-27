@@ -17,4 +17,4 @@ Three key ideas that drive me at this point are:
 
 - [Basic Writing and Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
   
-#### Here's a link to my [profile](https://github.com/SmilinJack)
+#### Here's a link to my Github [profile](https://github.com/SmilinJack)
