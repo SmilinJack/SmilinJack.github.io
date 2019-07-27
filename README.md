@@ -1,6 +1,6 @@
 # Hi, I'm Jack!
 
-Hello and welcome to my learning journal. I am preparing myself to begin my journey in programming. I will be chronicling my journey to *CODE MASTER!!* here and maintaining a growth mindset throughout the journey. Three key ideas that drive me at this point are:
+Welcome to my learning journal. As I begin my journey in programming, I will be chronicling some elements here while staying focused on a growth mindset throughout. Three key ideas that drive me at this point are:
 
   1. I Can't Do This...YET
   2. The Obstacle Becomes The Way
