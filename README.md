@@ -12,7 +12,7 @@ Three key ideas that drive me at this point are:
   3. Thought Loops. Drive Out The Negative With Positive Thought Loops.
   
   
-### Here are some useful links:
+### Here are some cheat sheet links:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - [Basic Writing and Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
