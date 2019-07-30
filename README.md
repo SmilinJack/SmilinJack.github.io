@@ -29,5 +29,3 @@ An **IDE (Integrated Development Environment)** is really a suite of different s
 #Weekly Reader
 - ### Week 1
   **With the first week** done I have to admit I am feeling a bit lost while I familiarize myself with the Mac OS. Things that had been muscle memory are now added to my **To Learn** list.
-
-try 'git status'
