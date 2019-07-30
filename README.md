@@ -25,3 +25,7 @@ Three key ideas that drive me at this point are:
 A **text editor** kind of gives away what it does in the title — it edits text. It also manages text, and manages files. I love that name “text wrangler” because in a way that’s what really a text editor does. It wrangles your text together into something meaningful.
 
 An **IDE (Integrated Development Environment)** is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. [source](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636)
+
+#Weekly Reader
+- ### Week 1
+  **With the first week** done I have to admit I am feeling a bit lost
