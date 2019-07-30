@@ -16,6 +16,8 @@ Three key ideas that drive me at this point are:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 - [Basic Writing and Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+- [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   
 #### Here's a link to my Github [profile](https://github.com/SmilinJack)
 
