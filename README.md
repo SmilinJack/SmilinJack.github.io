@@ -26,7 +26,7 @@ A **text editor** kind of gives away what it does in the title — it edits text
 
 An **IDE (Integrated Development Environment)** is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. [source](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636)
 
-#Weekly Reader
+# Weekly Reader 102
 - ### Week 1
   **With the first week** done I have to admit I am feeling a bit lost while I familiarize myself with the Mac OS. Things that had been muscle memory are now added to my **To Learn** list.
   
